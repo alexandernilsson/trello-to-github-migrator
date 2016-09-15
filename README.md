@@ -1,11 +1,11 @@
 # trello-to-github-migrator
 
-A simple tool to copy over all cards in a Trello board into a GitHub Project
+A simple tool to copy over all cards in a Trello board into a GitHub Project. The only metadata it copies over is the title of the trello card, which becomes the note text. 
 
 ## Prerequisites
 
 - First off, create the Github repo and a project.
-- Create all the lists you have in your your Trello board in in your Github project
+- Create all the lists you have in your Trello board in in your Github project
 
 ## Usage
 
