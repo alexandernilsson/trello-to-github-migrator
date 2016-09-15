@@ -1,0 +1,3 @@
+package: github.com/meltwater/trello-to-github-migrator
+import:
+- package: github.com/VojtechVitek/go-trello

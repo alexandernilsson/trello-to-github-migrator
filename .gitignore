@@ -1,0 +1,4 @@
+vendor/
+debug
+trello-to-github-migrator
+run.sh
